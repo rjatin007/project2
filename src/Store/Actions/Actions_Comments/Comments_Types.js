@@ -1,0 +1,10 @@
+const action_types_comments={
+    GET_COMMENTS_BY_POST:'GET_COMMENTS_BY_POST',
+    GET_COMMENT_DETAILS:'GET_COMMENT_DETAILS',
+    VOTE_COMMENT:'VOTE_COMMENT',
+    EDIT_COMMENT:'EDIT_COMMENT',
+    ADD_COMMENT:'ADD_COMMENT',
+    DELETE_COMMENT:'DELETE_COMMENT'
+}
+
+export default action_types_comments;

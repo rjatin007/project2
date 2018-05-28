@@ -1,0 +1,6 @@
+.post-viewer{
+    border : 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    width : 40%;
+    margin : 10px auto;
+}
